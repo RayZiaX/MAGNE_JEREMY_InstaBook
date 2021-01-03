@@ -1,4 +1,4 @@
-## Compte rendu tu TP de InstaBook en Laravel
+## Compte rendu du TP de InstaBook en Laravel
 
 ## Auteur MAGNE JEREMY
 
